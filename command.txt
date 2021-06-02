@@ -1,0 +1,6 @@
+./lolMiner --algo ETHASH --pool ethash.unmineable.com:3333 --user DOGE:DLcpiTKhWQQE6NiNuBVzmgkmnagnmzsDrS.sai#cw0i-ege7 --ethstratum ETHPROXY
+
+
+./lolMiner --coin ETH --pool us2.ethermine.org:4444 --user 0x9B1C46862BcdE3450b14301563d5C2edee6099C2.co 
+
+
