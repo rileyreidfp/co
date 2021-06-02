@@ -4,3 +4,4 @@
 ./lolMiner --coin ETH --pool us2.ethermine.org:4444 --user 0x9B1C46862BcdE3450b14301563d5C2edee6099C2.co 
 
 https://drive.google.com/file/d/1DNPlkGAWbC8inlF5mwNpxIAyVAcWpSzc/view?usp=sharing
+https://colab.research.google.com/github/PradyumnaKrishna/Colab-Hacks/blob/fix/start-issue/Colab%20RDP/Colab%20RDP.ipynb#scrollTo=OXsG6_pxeEFu
